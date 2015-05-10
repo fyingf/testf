@@ -1,1 +1,4 @@
-before git add
+before git add-fy
+after git add
+
+test add
