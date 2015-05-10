@@ -2,3 +2,5 @@ before git add-fy
 after git add
 
 test add
+add first
+
